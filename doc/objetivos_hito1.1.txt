@@ -1,0 +1,24 @@
+Casos de uso:
+    En Front-Office (cliente):
+        - Contratar servicios
+        - Cambiar servicios
+        - Consultar consumo
+        - Activar opciones
+        - Compartir datos
+        - Bloquear números
+        - Gestionar consultas
+
+    En Back-Office (responsable de ventas y marketing):
+        - Gestionar características y tarifas
+
+    En Back-Office (atención al cliente):
+        - Gestionar contratos
+        - Atender consultas
+
+    Sistema:
+        - Enviar factura
+
+Clases de servicio: ¿una por caso de uso?
+Entidades de dominio: ¿una por actor?
+
+Repositorios en memoria: ¿Formato .json?
